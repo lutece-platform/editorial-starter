@@ -7,8 +7,8 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>fr.paris.lutece.themes</groupId>
-    <artifactId>theme-editorial-starter</artifactId>
+    <groupId>fr.paris.lutece.starters</groupId>
+    <artifactId>editorial-starter</artifactId>
     <packaging>lutece-site</packaging>
     <version>1.0.0-SNAPSHOT</version>
     <name />
@@ -52,10 +52,10 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:https://github.com/lutece-platform/theme-editorial-starter.git</connection>
-        <developerConnection>scm:git:https://github.com/lutece-platform/theme-forms-editorial.git</developerConnection>
+        <connection>scm:git:https://github.com/lutece-platform/editorial-starter.git</connection>
+        <developerConnection>scm:git:https://github.com/lutece-platform/editorial.git</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/lutece-platform/theme-editorial-starter</url>
+        <url>https://github.com/lutece-platform/editorial-starter</url>
     </scm>
 
 </project>
