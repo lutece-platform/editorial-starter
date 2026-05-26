@@ -9,12 +9,12 @@
     <groupId>fr.paris.lutece.starters</groupId>
     <artifactId>editorial-starter</artifactId>
     <name>Lutece Editorial Starter</name>
-    <version>7.1.1-SNAPSHOT</version>
-    <description></description>
+    <version>7.1.1</version>
+    <description />
     <scm>
         <connection>scm:git:https://github.com/lutece-platform/editorial-starter.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-platform/editorial-starter.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>editorial-starter-7.1.1</tag>
         <url>https://github.com/lutece-platform/editorial-starter.git</url>
     </scm>
     <repositories>
