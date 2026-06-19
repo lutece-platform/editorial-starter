@@ -39,7 +39,7 @@
         <dependency>
             <groupId>fr.paris.lutece</groupId>
             <artifactId>lutece-core</artifactId>
-            <version>7.1.10-SNAPSHOT</version>
+            <version>[7.1.10-beta-01]</version>
             <type>lutece-core</type>
         </dependency>
         <dependency>
@@ -81,13 +81,13 @@
         <dependency>
             <groupId>fr.paris.lutece.plugins</groupId>
             <artifactId>library-freemarker</artifactId>
-            <version>1.3.7-SNAPSHOT</version>
+            <version>[1.3.7-beta-01]</version>
             <type>jar</type>
         </dependency>
         <dependency>
             <groupId>fr.paris.lutece.plugins</groupId>
             <artifactId>plugin-blog</artifactId>
-            <version>3.0.8-SNAPSHOT</version>
+            <version>[3.0.8-beta-01]</version>
             <type>lutece-plugin</type>
         </dependency>
         <dependency>
@@ -213,21 +213,20 @@
         <dependency>
             <groupId>fr.paris.lutece.plugins</groupId>
             <artifactId>plugin-xmltransformer</artifactId>
-            <version>1.0.1-SNAPSHOT</version>
+            <version>[1.0.1-beta-01]</version>
             <type>lutece-plugin</type>
         </dependency>
         <dependency>
             <groupId>fr.paris.lutece.plugins</groupId>
             <artifactId>plugin-extend</artifactId>
+            <version>[1.3.8]</version>
             <type>lutece-plugin</type>
-            <version>1.3.8</version>
         </dependency>
         <dependency>
             <groupId>fr.paris.lutece.plugins</groupId>
             <artifactId>module-extend-comment</artifactId>
+            <version>[1.2.2-beta-01]</version>
             <type>lutece-plugin</type>
-            <version>1.2.2-SNAPSHOT</version>
         </dependency>
-    
     </dependencies>
 </project>
